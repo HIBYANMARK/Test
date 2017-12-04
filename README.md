@@ -1,3 +1,3 @@
 # Test
 My first test repository.
-This will test the a revision process.
+This will test the revision process.
